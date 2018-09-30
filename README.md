@@ -1,3 +1,6 @@
+We are interested in investigating trends related to traffic fatalities in the United States. We will examine trends depending on states, cities, weather conditions, types of vehicles, etc. To answer these questions, we will use the "Traffic Fatalities" dataset provided by the US public transportation website (also found in Kaggle). 
+
+
 fatalities in winter or summer and which month or hour of the day
 Rush hour = more fatalities
 national highway or rural roads more fatalities in the city or in the country
