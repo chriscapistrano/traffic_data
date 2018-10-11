@@ -16,76 +16,76 @@
 15,Large Utility
 16,Utility Station Wagon
 17,3-door coupe
-18,
+18,other 
 19,"Utility Vehicle, Unknown Body Type"
 20,Minivan
 21,Large Van
 22,"Step Van or Walk-In Van [< = 10,000 lbs. GVWR]"
-23,
-24,
-25,
-26,
-27,
+23,other 
+24,other 
+25,other 
+26,other 
+27,other 
 28,Other Van Type
 29,Unknown Van Type
 30,Compact Pickup
 31,Standard Pickup
 32,Pickup with Slide-in Camper
 33,Convertible Pickup
-34,
-35,
-36,
-37,
-38,
+34,other 
+35,other 
+36,other 
+37,other 
+38,other 
 39,Unknown (Pickup Style) Light Conventional Truck Type)
 40,"Cab Chassis Based [includes rescue vehicles, light stake, dump and tow truck]"
 41,Truck Based Panel
 42,Light Truck Based Motor Home [chassis mounted]
-43,
-44,
+43,other 
+44,other 
 45,Other Light Conventional Truck Type
-46,
-47,
+46,other 
+47,other 
 48,Unknown Light Truck Type
 49,"Unknown Light Vehicle Type [automobile, utility, van or light truck]"
 50,School Bus
 51,Cross Country/Intercity Bus
 52,Transit Bus [City Bus]
-53,
-54,
+53,other 
+54,other 
 55,"Van-Based Bus GVWR > 10,000 lbs"
-56,
-57,
+56,other 
+57,other 
 58,Other Bus Type
 59,Unknown Bus Type
 60,"Step Van [>10,000 lbs. GVWR]"
 61,Single-Unit Straight Truck or Cab-chassis
-62,
+62,other 
 63,Single-Unit Straight Truck or Cab-chassis
 64,Single-Unit Straight Truck or Cab-chassis [GVWR unknown]
 65,Medium/Heavy Truck Based Motor Home
 66,Truck-Tractor [Cab only or with any number of trailing units]
 67,"Medium/Heavy Pick-up [>10,000 lbs. GVWR]"
-68,
-69,
-70,
-71,
-72,
+68,other 
+69,other 
+70,other 
+71,other 
+72,other 
 73,"Camper or Motor Home, unknown truck typ"
-74,
-75,
-76,
-77,
+74,other 
+75,other 
+76,other 
+77,other 
 78,Unknown Medium/Heavy Truck Type
 79,Unknown Truck Type [light/medium/heavy)]
 80,Motorcycle
 81,Moped [motorized bicycle]
 82,Three-Wheeled Motorcycle or Moped
 83,Off-road Motorcycle [2-wheel]
-84,
-85,
-86,
-87,
+84,other 
+85,other 
+86,other 
+87,other 
 88,"Other Motored Cycle [mini-bike, motor scooter, pocket motorcycles “pocket bikes”]"
 89,Unknown Motored Cycle Type
 90,ATV/ATC [All-Terrain Cycle]
@@ -94,7 +94,7 @@
 93,Construction Equipment Other Than Trucks
 94,Low speed vehicle (LSV)/Neighborhood Electric Vehicle (NEV)
 95,Golf Cart
-96,
+96,other 
 97,Other Vehicle Type
 98,Not Reported
 99,Unknown Body Type
